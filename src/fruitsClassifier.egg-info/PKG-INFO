@@ -1,3 +1,8 @@
+Metadata-Version: 2.1
+Name: fruitsClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+
 # Fruit Quality Classification Project
 
 ## How to run?
