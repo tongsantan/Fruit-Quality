@@ -3,7 +3,7 @@ output_root: output
 
 data_ingestion:
   root_dir: output/data_ingestion
-  source_URL: https://drive.google.com/file/d/10xqSnMgeJwvsf2wHt8rQBx3Ixh5v52os/view?usp=sharing
+  source_URL: https://drive.google.com/file/d/1UwAPLYRHR3hAxY2KsucSYO8OWBPEEtQs/view?usp=sharing
   local_data_file: output/data_ingestion/fruitsdata.zip
   unzip_dir: output/data_ingestion
 
